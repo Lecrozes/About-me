@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Lecrozes
 - 👀 I’m interested in Programming/Gaming/Writing
-- 🌱 I’m currently learning Software Developer - Web development
-- 📫 How to reach me Discord Lecrozes#0666
+- 🌱 I’m currently Software Developer - Web development
